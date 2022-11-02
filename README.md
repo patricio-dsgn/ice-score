@@ -167,15 +167,9 @@ Second Term
 
 
 
-
-  <link href='https://d33wubrfki0l68.cloudfront.net/bundles/66f80cbca2b87e61960fce464513ade173e5f90c.css' rel='stylesheet'/>
-
-
-I need to highlight these <cosa>very important words</cosa>.
-
-I need to highlight these <mark>very important words</mark>.
+<font color="red">This text is red!</font>
 
 
-- [x] Write the press release
+- [ ] Write the press release
 - [x] Update the website
-- [x] Contact the media
+- [ ] Contact the media

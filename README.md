@@ -169,6 +169,7 @@ Second Term
 
 <font color="red">This text is red!</font>
 
+<p style="color:blue">Make this text blue.</p>
 
 - [ ] Write the press release
 - [x] Update the website

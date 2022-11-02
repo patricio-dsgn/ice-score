@@ -1,3 +1,39 @@
+<img src="https://img.shields.io/badge/Made%20with-Python3-brightgreen">
+<img src="https://img.shields.io/static/v1?label=by&message=washuleru&color=f07">
+<img src="https://img.shields.io/static/v1?plastic=by&message=washuleru&color=f07">
+<img src="https://img.shields.io/static/v1?flast=by&message=washuleru&color=f07">
+<img src="https://img.shields.io/static/v1?plastic=by&message=washuleru&color=f07">
+
+
+---
+
+
+![a](https://img.shields.io/badge/by-pato-8f7-social)
+![a](https://img.shields.io/badge/by-pato-8f7)
+
+
+![a](https://img.shields.io/static/v1?label=by&message=pato&color=78f&style=plastic)
+![a](https://img.shields.io/static/v1?label=by&message=pato&color=78f&style=flat)
+![a](https://img.shields.io/static/v1?label=by&message=pato&color=78f&style=flat-square)
+![a](https://img.shields.io/static/v1?label=by&message=pato&color=78f&style=for-the-badge)
+![a](https://img.shields.io/static/v1?label=by&message=pato&color=78f&style=social)
+
+---
+
+https://img.shields.io/appveyor/build/xsc/cs?color=cs&label=cs&logo=cs&logoColor=cs
+https://img.shields.io/appveyor/build/xsc/cs?color=cs&label=cs&logo=cs&logoColor=cs&style=for-the-badge
+
+
+![made-with-python](https://img.shields.io/badge/Made%20with-Python3-brightgreen)
+![made-with-python](https://img.shields.io/static/v1?label=by&message=washuleru&color=f07)
+![made-with-python](https://img.shields.io/static/v1?plastic=by&message=washuleru&color=f07)
+![made-with-python](https://img.shields.io/static/v1?flast=by&message=washuleru&color=f07)
+![made-with-python](https://img.shields.io/static/v1?plastic=by&message=washuleru&color=f07)
+
+
+
+
+
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--

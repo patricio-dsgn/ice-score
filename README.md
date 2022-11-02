@@ -48,7 +48,7 @@ Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
 
 <style>
   .beta{
-    background-color: #f07;
+    
     color: #fff;
     padding: 10px;
     border:1px solid #000;
@@ -57,10 +57,10 @@ Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
 </style>
 
 <div style="display: flex">
-<div class="beta">
+<div style="background-color: #f07; border:1px solid #000;">
 cdsvdsvsdv
 </div>
-<div class="beta">
+<div style="background-color: #f07; border:1px solid #000;">
 cdsvdsvsdv
 </div>
 </div>

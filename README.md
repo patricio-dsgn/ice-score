@@ -29,6 +29,12 @@ csds
       </head>
     </html>
 
+<figure>
+    <img src="/readme/img/photo.png"
+        alt="Albuquerque, New Mexico">
+    <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
+</figure>
+
 
 <https://www.markdownguide.org>
 <fake@example.com>
@@ -174,3 +180,14 @@ Second Term
 - [ ] Write the press release
 - [x] Update the website
 - [ ] Contact the media
+
+
+
+
+
+> :warning: **Warning:** Do not push the big red button.
+
+> :memo: **Note:** Sunrises are beautiful.
+
+> :bulb: **Tip:** Remember to appreciate the little things in life.
+

@@ -1,5 +1,9 @@
-<col style="color: #00ff00">uno</col>
-<col style="color: #00ff00">dos</col>
+<table>
+  <tr>
+    <td width="50%">uno</td>
+    <td width="50%">dos</td>
+  </tr>
+</table>
 
 # ICE Score
 

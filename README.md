@@ -46,24 +46,31 @@ Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
 Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
 
 
-<style>
-  .beta{
-    
-    color: #fff;
-    padding: 10px;
-    border:1px solid #000;
-    width: 50%
-  }
-</style>
+| Syntax | Description |
+| --- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
-<div style="display: flex">
-<div style="background-color: #f07; border:1px solid #000;">
-cdsvdsvsdv
-</div>
-<div style="background-color: #f07; border:1px solid #000;">
-cdsvdsvsdv
-</div>
-</div>
+
+
+
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+The rendered output looks like this:
+
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+
 
 
 ***
@@ -128,3 +135,47 @@ __vsfs__
 
 
 
+
+
+
+
+
+``` json
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+
+
+First Term
+: This is the definition of the first term.
+
+Second Term
+: This is one definition of the second term.
+: This is another definition of the second term.
+
+
+
+
+
+
+
+~~The world is flat.~~ We now know that the world is round.
+
+
+
+
+  <link href='https://d33wubrfki0l68.cloudfront.net/bundles/66f80cbca2b87e61960fce464513ade173e5f90c.css' rel='stylesheet'/>
+
+
+I need to highlight these <cosa>very important words</cosa>.
+
+I need to highlight these <mark>very important words</mark>.
+
+
+- [x] Write the press release
+- [x] Update the website
+- [x] Contact the media
